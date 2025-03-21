@@ -38,5 +38,3 @@ app.listen(port,()=>{
     console.log(`server started on port: ${port}`)
 })
 
-// mongodb+srv://bhavyachavda55:<db_password>@cluster0.w1qve.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-// mongodb+srv://bhavyachavda55:gMYzZG2L69zYBC9V@cluster0.w1qve.mongodb.net/?
